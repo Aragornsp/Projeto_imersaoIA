@@ -1,2 +1,2 @@
 # Projeto_imersaoIA
-Projeto da Imersão de Ia da Alura/Google
+Projeto da Imersão de IA da Alura/Google
